@@ -2,7 +2,6 @@
 <html>
 <body>
 
-<?php header( 'Location: /index.html' ) ;  ?>
 
 <h1>Lucas</h1>
 <h3>is a massive</h3>
